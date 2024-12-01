@@ -4,7 +4,34 @@ This repository contains my solutions to various problems I’ve solved some pla
 
 ## Table of Contents
 
-- Soon
+- [Array](#array)
+- [LinkedList](#linked-list)
+- [Math](#math)
+- [String](#string)
+
+### Array
+
+- [Remove Duplicate](array/remove-duplicates-from-sorted-array)
+- [Remmove Element](array/remove-element)
+- [Search Insert Position](array/search-insert-position)
+- [Two Sum](array/two-sum)
+
+### Linked-List
+
+- [Merge Two Sorted List](linked-list/merge-two-sorted-lists)
+
+### Math
+
+- [Is Palindrome Int](math/is-palindrome-int)
+- [Roman to Integer](math/roman-to-int)
+
+### String
+
+- [Index of The First Occurrence](string/index-of-the-first-occurrence)
+- [Longest Common Prefix](string/longest-common-prefix)
+- [Valid Parentheses](string/valid-parentheses)
+
+---
 
 ## How to Contribute
 
