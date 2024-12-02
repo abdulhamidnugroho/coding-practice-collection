@@ -30,6 +30,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Index of The First Occurrence](string/index-of-the-first-occurrence)
 - [Longest Common Prefix](string/longest-common-prefix)
 - [Valid Parentheses](string/valid-parentheses)
+- [Length of Last Word](string/length-of-last-word)
 
 ---
 
