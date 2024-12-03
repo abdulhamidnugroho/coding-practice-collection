@@ -15,6 +15,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Remmove Element](array/remove-element)
 - [Search Insert Position](array/search-insert-position)
 - [Two Sum](array/two-sum)
+- [Merge Sorted Array](array/merge-sorted-array)
 
 ### Linked-List
 
