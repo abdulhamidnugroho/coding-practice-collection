@@ -25,6 +25,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 
 - [Is Palindrome Int](math/is-palindrome-int)
 - [Roman to Integer](math/roman-to-int)
+- [Smallest Number With All Set Bits](math/smallest-number-with-all-set-bits)
 
 ### String
 
