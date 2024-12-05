@@ -16,6 +16,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Search Insert Position](array/search-insert-position)
 - [Two Sum](array/two-sum)
 - [Merge Sorted Array](array/merge-sorted-array)
+- [Sock Merchant](array/sock-merchant)
 
 ### Linked-List
 
