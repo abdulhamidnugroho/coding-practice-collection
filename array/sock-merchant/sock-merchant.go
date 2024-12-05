@@ -3,6 +3,8 @@ package main
 import "fmt"
 
 func sockMerchant(n int32, ar []int32) int32 {
+	fmt.Println(n)
+
 	count := make(map[int]int)
 	pairs := 0
 
