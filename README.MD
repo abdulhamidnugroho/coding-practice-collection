@@ -17,6 +17,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Two Sum](array/two-sum)
 - [Merge Sorted Array](array/merge-sorted-array)
 - [Sock Merchant](array/sock-merchant)
+- [Jumping on The Clouds](array/jumping-on-the-clouds)
 
 ### Linked-List
 
