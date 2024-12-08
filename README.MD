@@ -18,6 +18,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Merge Sorted Array](array/merge-sorted-array)
 - [Sock Merchant](array/sock-merchant)
 - [Jumping on The Clouds](array/jumping-on-the-clouds)
+- [Left Rotation](array/left-rotation)
 
 ### Linked-List
 
@@ -36,6 +37,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Valid Parentheses](string/valid-parentheses)
 - [Length of Last Word](string/length-of-last-word)
 - [Counting Valleys](string/counting-valleys)
+- [Repeated String](string/repeated-string)
 
 ---
 
