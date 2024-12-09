@@ -38,6 +38,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Length of Last Word](string/length-of-last-word)
 - [Counting Valleys](string/counting-valleys)
 - [Repeated String](string/repeated-string)
+- [Anagram](string/anagram)
 
 ---
 
