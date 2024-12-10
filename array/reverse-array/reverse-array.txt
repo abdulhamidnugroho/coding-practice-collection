@@ -1,0 +1,7 @@
+Reverse an array of integers
+
+Examples:
+a = [1, 2, 3, 4, 5]
+
+Return:
+[5, 4, 3, 2, 1]

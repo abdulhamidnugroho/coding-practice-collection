@@ -19,6 +19,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Sock Merchant](array/sock-merchant)
 - [Jumping on The Clouds](array/jumping-on-the-clouds)
 - [Left Rotation](array/left-rotation)
+- [Reverse Array](array/reverse-array)
 
 ### Linked-List
 
