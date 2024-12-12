@@ -20,6 +20,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Jumping on The Clouds](array/jumping-on-the-clouds)
 - [Left Rotation](array/left-rotation)
 - [Reverse Array](array/reverse-array)
+- [Plus One](array/plus-one)
 
 ### Linked-List
 
