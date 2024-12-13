@@ -32,6 +32,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Roman to Integer](math/roman-to-int)
 - [Smallest Number With All Set Bits](math/smallest-number-with-all-set-bits)
 - [Climbing Stairs](math/climbing-stairs)
+- [Fibonacci](math/fibonacci)
 
 ### String
 
