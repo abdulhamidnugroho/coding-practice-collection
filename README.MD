@@ -21,6 +21,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Left Rotation](array/left-rotation)
 - [Reverse Array](array/reverse-array)
 - [Plus One](array/plus-one)
+- [Pascals Triangle](array/pascals-triangle)
 
 ### Linked-List
 
