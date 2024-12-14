@@ -25,6 +25,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 ### Linked-List
 
 - [Merge Two Sorted List](linked-list/merge-two-sorted-lists)
+- [Remove Duplicates](linked-list/remove-duplicates)
 
 ### Math
 
