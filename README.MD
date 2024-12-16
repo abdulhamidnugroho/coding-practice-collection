@@ -22,6 +22,8 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Reverse Array](array/reverse-array)
 - [Plus One](array/plus-one)
 - [Pascals Triangle](array/pascals-triangle)
+- [Pascals Triangle II](array/pascals-triangle-ii)
+- [Buy and Sell Stock](array/buy-and-sell-stock)
 
 ### Linked-List
 
