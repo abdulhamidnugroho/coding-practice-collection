@@ -47,6 +47,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Counting Valleys](string/counting-valleys)
 - [Repeated String](string/repeated-string)
 - [Anagram](string/anagram)
+- [Valid Palindrome](string/valid-palindrome)
 
 ---
 
