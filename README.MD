@@ -24,6 +24,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Pascals Triangle](array/pascals-triangle)
 - [Pascals Triangle II](array/pascals-triangle-ii)
 - [Buy and Sell Stock](array/buy-and-sell-stock)
+- [Single Number](array/single-number)
 
 ### Linked-List
 
