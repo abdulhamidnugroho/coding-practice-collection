@@ -38,6 +38,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Smallest Number With All Set Bits](math/smallest-number-with-all-set-bits)
 - [Climbing Stairs](math/climbing-stairs)
 - [Fibonacci](math/fibonacci)
+- [Excel Column Title](math/excel-column-title)
 
 ### String
 
