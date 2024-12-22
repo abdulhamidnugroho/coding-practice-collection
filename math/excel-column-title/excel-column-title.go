@@ -13,7 +13,8 @@ func convertToTitle(columnNumber int) string {
 		remainder := columnNumber % 26 // modulo 26
 
 		// convert remainder to corresponding character
-		result = fmt.Sprint('A'+remainder) + result // most important code
+		result = string('A'+remainder) + result // most important code
+
 		// move to the next digit
 		columnNumber /= 26
 	}

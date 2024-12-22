@@ -40,6 +40,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Fibonacci](math/fibonacci)
 - [Excel Column Title](math/excel-column-title)
 - [Excel Column Number](math/excel-column-number)
+- [Add Binary](math/add-binary)
 
 ### String
 
