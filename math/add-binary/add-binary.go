@@ -15,6 +15,7 @@ func addBinary(a string, b string) string {
 			sum += int(a[i] - '0') // character to integer
 			i--
 		}
+
 		if j >= 0 {
 			sum += int(b[j] - '0') // character to integer
 			j--

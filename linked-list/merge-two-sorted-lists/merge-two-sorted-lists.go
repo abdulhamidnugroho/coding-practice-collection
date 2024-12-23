@@ -57,5 +57,5 @@ func main() {
 	list2 := createList([]int{1, 3, 4})
 
 	mergedList := mergeTwoLists(list1, list2)
-	printList(mergedList) // Output: 1 1 2 3 4 4
+	printList(mergedList) // Output: 1 1 2 3 4 4 5 5
 }
