@@ -31,6 +31,10 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Merge Two Sorted List](linked-list/merge-two-sorted-lists)
 - [Remove Duplicates](linked-list/remove-duplicates)
 
+### Map
+
+- [Phone Number](map/phone-number)
+
 ### Math
 
 - [Is Palindrome Int](math/is-palindrome-int)
