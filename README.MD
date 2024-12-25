@@ -57,6 +57,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Repeated String](string/repeated-string)
 - [Anagram](string/anagram)
 - [Valid Palindrome](string/valid-palindrome)
+- [Isomorphic Strings](string/isomorphic-strings)
 
 ### Tree
 
