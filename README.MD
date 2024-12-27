@@ -25,6 +25,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Pascals Triangle II](array/pascals-triangle-ii)
 - [Buy and Sell Stock](array/buy-and-sell-stock)
 - [Single Number](array/single-number)
+- [Contains Duplicates](array/contains-duplicates)
 
 ### Linked-List
 
