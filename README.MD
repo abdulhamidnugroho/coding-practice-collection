@@ -47,6 +47,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Excel Column Number](math/excel-column-number)
 - [Add Binary](math/add-binary)
 - [Happy Number](math/happy-number)
+- [Add Digits](math/add-digits)
 
 ### String
 
