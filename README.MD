@@ -61,6 +61,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Valid Palindrome](string/valid-palindrome)
 - [Isomorphic Strings](string/isomorphic-strings)
 - [Valid Anagram](string/valid-anagram)
+- [String Matching](string/string-matching)
 
 ### Tree
 
