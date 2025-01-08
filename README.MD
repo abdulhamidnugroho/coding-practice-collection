@@ -26,6 +26,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Buy and Sell Stock](array/buy-and-sell-stock)
 - [Single Number](array/single-number)
 - [Contains Duplicates](array/contains-duplicates)
+- [Count Prefix and Suffix](array/count-prefix-and-suffix)
 
 ### Linked-List
 
