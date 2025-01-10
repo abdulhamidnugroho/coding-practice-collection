@@ -63,6 +63,7 @@ This repository contains my solutions to various problems I’ve solved some pla
 - [Isomorphic Strings](string/isomorphic-strings)
 - [Valid Anagram](string/valid-anagram)
 - [String Matching](string/string-matching)
+- [Counting Words with Given Prefix](string/counting-words-with-given-prefix)
 
 ### Tree
 
